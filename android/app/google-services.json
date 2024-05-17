@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "790647813077",
+    "project_id": "dakshhire-bb356",
+    "storage_bucket": "dakshhire-bb356.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790647813077:android:d550d232c07d57c89cc35c",
+        "android_client_info": {
+          "package_name": "com.example.flutterfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-PnFHav0lrzJVz4K-G34b7q81k2ZHk4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
