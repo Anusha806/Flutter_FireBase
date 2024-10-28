@@ -1,9 +1,9 @@
 // import 'package:postgres/legacy.dart';
 // import 'package:postgres/postgres.dart';
-//
+
 // class DatabaseSetup {
 //   final PostgreSQLConnection _connection;
-//
+
 //   DatabaseSetup({
 //     required String host,
 //     required int port,
@@ -17,11 +17,11 @@
 //     username: username,
 //     password: password,
 //   );
-//
+
 //   Future<void> connect() async {
 //     await _connection.open();
 //   }
-//
+
 //   Future<void> insertData(String name, String id, String email) async {
 //     try {
 //       await _connection.query(
@@ -37,7 +37,7 @@
 //       print('Error inserting data: $e');
 //     }
 //   }
-//
+
 //   Future<void> close() async {
 //     await _connection.close();
 //   }
